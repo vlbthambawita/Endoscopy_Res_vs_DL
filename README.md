@@ -13,5 +13,7 @@
 ## How to test a pretained model for different input sizes?
 python train_and_test.py test --input_img_size 32 --rescaled_to 32 --test_checkpoint <<best_checkpoint_path>> 
 
+## Citation: TBA
+
 
 
