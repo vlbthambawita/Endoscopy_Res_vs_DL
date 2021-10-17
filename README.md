@@ -1,4 +1,4 @@
-# Impact of Image Resolution on Deep LearningPerformance in Endoscopy
+# Impact of Image Resolution on Deep Learning Performance in Endoscopy Image Classification: An experimental study using a large dataset of endoscopic images
 
 ## How to train a model for specific input size?
 > python train_and_test.py train --model resnet152 --input_img_size 32 --rescaled_to 32 \
