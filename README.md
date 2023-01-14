@@ -27,7 +27,7 @@ python train_and_test.py test --input_img_size 32 --rescaled_to 32 --test_checkp
 >NUMBER = {12},
 >ARTICLE-NUMBER = {2183},
 >URL = {https://www.mdpi.com/2075-4418/11/12/2183},
->ISSN = {2075-4418},
+>ISSN = {2075-4418}}
 
 
 
